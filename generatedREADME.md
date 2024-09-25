@@ -1,6 +1,5 @@
 
-# Title
-na
+# na
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 # Description
@@ -11,17 +10,17 @@ na
 
 [Usage](#usage)
 
-[Contributing](#Contributing)
+[Contributing](#contributing)
 
-[License](#License)
+[License](#license)
 
-[Tests](#Tests)
+[Tests](#tests)
 
-[Technologies](#Technologies)
+[Technologies](#technologies)
 
-[Questions](#Questions)
+[Questions](#questions)
 
-[GettingStarted](#GettingStarted)
+[GettingStarted](#gettingstarted)
 
 # Installation
 na
@@ -30,10 +29,9 @@ na
 na
 
 # Contributing
-na
+an
 
 # License
-MIT
 This project is licensed under the MIT License. ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 # Tests
@@ -43,8 +41,8 @@ na
 HTML,JavaScript,CSS
 
 # Questions
-na
-na
+b
+b
 
 ## GettingStarted
 1. Clone the repository:
