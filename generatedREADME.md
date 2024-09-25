@@ -8,12 +8,20 @@ na
 
 # Table of Contents
 [Installation](#installation)
+
 [Usage](#usage)
+
 [Contributing](#Contributing)
+
 [License](#License)
+
 [Tests](#Tests)
+
 [Technologies](#Technologies)
+
 [Questions](#Questions)
+
+[GettingStarted](#GettingStarted)
 
 # Installation
 na
@@ -31,11 +39,12 @@ This project is licensed under the MIT License. ![License](https://img.shields.i
 # Tests
 na
 
-# Technologies Used
+# Technologies
 HTML,JavaScript,CSS
 
-# Questions reach out to these informations:
-bob
-bob
+# Questions
+na
+na
 
+## GettingStarted
 1. Clone the repository:

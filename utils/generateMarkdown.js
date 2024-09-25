@@ -46,12 +46,20 @@ ${data.description}
 
 # Table of Contents
 [Installation](#installation)
+
 [Usage](#usage)
-[Contributing](#Contributing)
-[License](#License)
-[Tests](#Tests)
-[Technologies](#Technologies)
-[Questions](#Questions)
+
+[Contributing](#contributing)
+
+[License](#license)
+
+[Tests](#tests)
+
+[Technologies](#technologies)
+
+[Questions](#questions)
+
+[GettingStarted](#gettingstarted)
 
 # Installation
 ${data.installation}
@@ -69,13 +77,14 @@ This project is licensed under the ${data.license} License. ${renderLicenseSecti
 # Tests
 ${data.tests}
 
-# Technologies Used
+# Technologies
 ${data.technologies}
 
-# Questions reach out to these informations:
+# Questions
 ${data.email}
 ${data.GitHub}
 
+## GettingStarted
 1. Clone the repository:
 `}
 
