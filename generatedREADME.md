@@ -1,10 +1,10 @@
 
 # Title
-title
+na
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 # Description
-project
+na
 
 # Table of Contents
 [Installation](#installation)
@@ -16,26 +16,26 @@ project
 [Questions](#Questions)
 
 # Installation
-install
+na
 
 # Usage
-usage
+na
 
 # Contributing
-contri
+na
 
 # License
 MIT
-
+This project is licensed under the MIT License. ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 # Tests
-test
+na
 
 # Technologies Used
 HTML,JavaScript,CSS
 
 # Questions reach out to these informations:
-bob@email.com
+bob
 bob
 
 1. Clone the repository:
