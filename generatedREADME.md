@@ -1,9 +1,9 @@
 
-# na
+# My Title
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 # Description
-na
+My Description
 
 # Table of Contents
 [Installation](#installation)
@@ -23,26 +23,26 @@ na
 [GettingStarted](#gettingstarted)
 
 # Installation
-na
+My installation
 
 # Usage
-na
+My usage
 
 # Contributing
-an
+My contribution
 
 # License
 This project is licensed under the MIT License. ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 # Tests
-na
+My tests
 
 # Technologies
 HTML,JavaScript,CSS
 
 # Questions
-b
-b
+bob@email.com
+bobdajacob
 
 ## GettingStarted
 1. Clone the repository:

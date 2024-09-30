@@ -14,6 +14,9 @@ The technologies used are: JavaScript, Node.js, Inquirer.js, File System (fs)
    ```bash
    node index.js
 
+## Link Video Walkthrough
+
+https://drive.google.com/file/d/1wz_0XJXAsdM-M4-Qmh1faqjsqNW_IjaJ/view
 
 ## License
 This project is licensed under the MIT License. 
